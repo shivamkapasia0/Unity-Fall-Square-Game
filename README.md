@@ -1,9 +1,7 @@
 # Welcome !
 
 Hi this game is currently **under *development***, so feel free to suggest or to raise any issue.
-<div class="iframe_container">
-<iframe frameborder="0" src="https://itch.io/embed/741234" width="552" height="167"><a href="https://shivamkapasia0.itch.io/dodge-square">Dodge Square by shivamkapasia0</a></iframe>
- </div>
+
 
 ## To-do
 
@@ -27,5 +25,5 @@ This game was inspired from [ShapeShiftGames](https://www.youtube.com/channel/UC
 
 
 
-<a href="">![Play now](https://static.itch.io/images/badge.svg)
+<a href="https://shivamkapasia0.itch.io/">![Play now](https://static.itch.io/images/badge.svg)
  </a>
