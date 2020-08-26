@@ -24,4 +24,5 @@ This game was inspired from [ShapeShiftGames](https://www.youtube.com/channel/UC
 
 
 
- 
+<a href="">![Play now](https://static.itch.io/images/badge.svg)
+ </a>
